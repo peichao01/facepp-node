@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/peichao01/facepp-node/issues"
   },
-  "homepage": "https://github.com/peichao01/facepp-node#readme"
+  "homepage": "https://github.com/peichao01/facepp-node#readme",
+  "dependencies": {
+    "request": "^2.75.0"
+  }
 }
